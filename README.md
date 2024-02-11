@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://yomsi58.github.io/crud-app/">
+  <a href="https://github.com/yomsi58/finalcapstoneemployeemanagementsoftware.git">
     CRUD App
   </a>
 </h1>
@@ -33,7 +33,7 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/yomsi58/crud-app.git
+git clone https://github.com/yomsi58/finalcapstoneemployeemanagementsoftware.git
 cd crud-app
 ```
 
@@ -62,8 +62,8 @@ and then you can open http://localhost:3000 to view it in the browser.
 
 ## Credits
 
-CRUD App is built and maintained by [Raymond Feuzeu](https://yomsi58.github.io).
+CRUD App is built and maintained by [Raymond Feuzeu](https://github.com/yomsi58/finalcapstoneemployeemanagementsoftware.git).
 
 ## License
 
-CRUD App is open-source software licensed under the [MIT License](https://github.com/yomsi58/crud-app/blob/master/LICENSE).
+CRUD App is open-source software licensed under the [MIT License](https://github.com/yomsi58/finalcapstoneemployeemanagementsoftware.git/master/LICENSE).
