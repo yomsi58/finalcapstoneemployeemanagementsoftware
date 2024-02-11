@@ -28,6 +28,14 @@
 - [Primitive UI](https://taniarascia.github.io/primitive)
 - [SweetAlert2](https://sweetalert2.github.io)
 
+## Project Motivation
+
+The goal of this project is to motivate upcoming software engineers by giving them a description and future career aspirations and earnings.As a software engineer, sometimes referred to as a software developer, you apply engineering principles and methodologies to design and develop complicated software systems and applications. Software engineers focus on analyzing and translating user requirements into an application or control system design. Software engineers may design complex systems for use in aircraft, manufacturing, military, energy generation and healthcare devices. They typically do not perform the actual coding, although in some cases they may. Software engineers generally work in teams to design and develop a computer systems.
+
+The estimated total pay for a Software Engineer is $140,708 per year in the United States area, with an average salary of $118,709 per year. These numbers represent the median, which is the midpoint of the ranges from our proprietary Total Pay Estimate model and based on salaries collected from our users. The estimated additional pay is $21,999 per year. Additional pay could include cash bonus, commission, tips, and profit sharing. The "Most Likely Range" represents values that exist within the 25th and 75th percentile of all pay data available for this role
+
+References: Glassdoor salaries:(https://www.glassdoor.com/Salaries/software-engineer-salary-SRCH_KO0,17.htm)
+
 ## Development
 
 To get a local copy of the code, clone it using git:
