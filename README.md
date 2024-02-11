@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/yomsi58/finalcapstoneemployeemanagementsoftware.git">
-    CRUD App
+    Employee Management Software App
   </a>
 </h1>
 
