@@ -67,3 +67,8 @@ CRUD App is built and maintained by [Raymond Feuzeu](https://github.com/yomsi58/
 ## License
 
 CRUD App is open-source software licensed under the [MIT License](https://github.com/yomsi58/finalcapstoneemployeemanagementsoftware.git/master/LICENSE).
+
+## Special Thanks
+
+CRUD App is built and maintained by [Raymond Feuzeu](https://github.com/yomsi58/finalcapstoneemployeemanagementsoftware.git).
+Gratitute extended to all my professors and colleagues at coding temple (https://www.codingtemple.com/)
